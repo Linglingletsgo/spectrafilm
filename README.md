@@ -18,8 +18,8 @@
 
 仅供学习使用，禁止商用。
 
-项目已部署在 https://www.dominicduan.com/spectrafilm，欢迎访问测试。
-本项目链接仅为架构发布与项目简介，后续一切更新请访问 https://www.dominicduan.com/spectrafilm。
+项目已部署在 https://www.dominicduan.com/spectrafilm ，欢迎访问测试。
+本项目链接仅为架构发布与项目简介，后续一切更新请访问 https://www.dominicduan.com/spectrafilm 。
 
 ## 联系方式
 @Dominic Duan
